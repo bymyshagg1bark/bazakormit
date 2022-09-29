@@ -1,5 +1,0 @@
-osnova = int(input('vvedi sistemu schisleniya'))
-a = int(input('vvedi pervoe chislo'))
-b = int(input('vvedi vtoroe chislo'))
-z = ((a*b//osnova*10)+(a*b&osnova))
-print(z)
