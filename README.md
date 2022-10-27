@@ -17,6 +17,6 @@
 
 # Примеры Законов логики
 18 формула
-A -> B = not A v B
+$$ A \to  B = \overline{A} \vee B $$
 
 ![изображение](https://user-images.githubusercontent.com/114554364/198190763-b8430c42-6bba-4e1d-a82f-616e9e9a346a.png)
