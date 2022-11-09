@@ -24,6 +24,11 @@ $$ A \to  B = \overline{A} \vee B $$
 # Формулы
 
 + $$\overline{E}_{10}^{20}=\sqrt{\frac{{F{a}^{x-1}}}{x(x-1)}}$$
+
 ![lagrida_latex_editor(1)](https://user-images.githubusercontent.com/114554364/200732944-5a107836-ef33-454a-904f-cf3c74e04d04.png)
 
-+ $$cos^2+sin^2=1$$
++ $$cos^2\alpha+sin^2\beta=1$$
+
+![lagrida_latex_editor(2)](https://user-images.githubusercontent.com/114554364/200733304-a281f4f3-2da9-4d02-a344-9d292be190cb.png)
+
+
