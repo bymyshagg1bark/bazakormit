@@ -21,3 +21,9 @@
 $$ A \to  B = \overline{A} \vee B $$
 
 ![изображение](https://user-images.githubusercontent.com/114554364/198190763-b8430c42-6bba-4e1d-a82f-616e9e9a346a.png)
+# Формулы
+
++ $$\overline{E}_{10}^{20}=\sqrt{\frac{{F{a}^{x-1}}}{x(x-1)}}$$
+![lagrida_latex_editor(1)](https://user-images.githubusercontent.com/114554364/200732944-5a107836-ef33-454a-904f-cf3c74e04d04.png)
+
++ $$cos^2+sin^2=1$$
