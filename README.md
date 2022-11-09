@@ -23,9 +23,9 @@ $$ A \to  B = \overline{A} \vee B $$
 ![изображение](https://user-images.githubusercontent.com/114554364/198190763-b8430c42-6bba-4e1d-a82f-616e9e9a346a.png)
 # Формулы
 
-+ $$\overline{E}_{10}^{20}=\sqrt{\frac{{F{a}^{x-1}}}{x(x-1)}}$$
++ $$\overline{E}_{10}^{20}=\sqrt{\frac{{F{a}^{x-1}}}{x(x-1)}}+\alpha_{1}^{\frac{1}{3}}+\beta_{2}^{\frac{2}{3}}$$
 
-![lagrida_latex_editor(1)](https://user-images.githubusercontent.com/114554364/200732944-5a107836-ef33-454a-904f-cf3c74e04d04.png)
+![lagrida_latex_editor(2)](https://user-images.githubusercontent.com/114554364/200735597-b2fdbc1b-593b-4851-86f0-1d583a3bceac.png)
 
 + $$cos^2\alpha+sin^2\beta=1$$
 
