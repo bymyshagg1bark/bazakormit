@@ -25,7 +25,8 @@ $$ A \to  B = \overline{A} \vee B $$
 
  $$\overline{E}^2_1=\sqrt{\frac{{F{a}^{x-1}}}{x(x-1)}}+\alpha_{1}^{\frac{1}{3}}+\beta_{2}^{\frac{2}{3}}$$
 
-![lagrida_latex_editor(2)](https://user-images.githubusercontent.com/114554364/200735597-b2fdbc1b-593b-4851-86f0-1d583a3bceac.png)
+![lagrida_latex_editor(5)](https://user-images.githubusercontent.com/114554364/200737494-89cade04-a251-41ab-a2e6-752f06c2e6b0.png)
+
 
 + $$cos^2\alpha+sin^2\beta=1$$
 
@@ -33,8 +34,7 @@ $$ A \to  B = \overline{A} \vee B $$
 
 + $$tg2\alpha=\frac{2tg\alpha}{1-tg^2\alpha}$$
 
-![lagrida_latex_editor(2)](https://user-images.githubusercontent.com/114554364/200733756-2193c648-c4e6-4c38-aafe-f55ec86bca85.png)
-
+![lagrida_latex_editor(3)](https://user-images.githubusercontent.com/114554364/200737442-77d74aa6-17e1-44a2-ab44-9710ad8e7416.png)
 
 
 
