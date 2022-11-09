@@ -23,12 +23,20 @@ $$ A \to  B = \overline{A} \vee B $$
 ![изображение](https://user-images.githubusercontent.com/114554364/198190763-b8430c42-6bba-4e1d-a82f-616e9e9a346a.png)
 # Формулы
 
-+ $$\overline{E}_{10}^{20}=\sqrt{\frac{{F{a}^{x-1}}}{x(x-1)}}$$
+ $$\overline{E}^2_1=\sqrt{\frac{{F{a}^{x-1}}}{x(x-1)}}+\alpha_{1}^{\frac{1}{3}}+\beta_{2}^{\frac{2}{3}}$$
+ 
+![lagrida_latex_editor(5)](https://user-images.githubusercontent.com/114554364/200737330-d4f73b9a-864f-4146-a05f-c868085b2da9.png)
 
-![lagrida_latex_editor(1)](https://user-images.githubusercontent.com/114554364/200732944-5a107836-ef33-454a-904f-cf3c74e04d04.png)
 
-+ $$cos^2\alpha+sin^2\beta=1$$
+$$cos^2\alpha+sin^2\beta=1$$
 
 ![lagrida_latex_editor(2)](https://user-images.githubusercontent.com/114554364/200733304-a281f4f3-2da9-4d02-a344-9d292be190cb.png)
+
+$$tg2\alpha=\frac{2tg\alpha}{1-tg^2\alpha}$$
+
+![lagrida_latex_editor(3)](https://user-images.githubusercontent.com/114554364/200737258-3ec52f2b-c0ff-4757-9c0e-02fbaba43439.png)
+
+
+
 
 
