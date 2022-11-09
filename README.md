@@ -31,4 +31,10 @@ $$ A \to  B = \overline{A} \vee B $$
 
 ![lagrida_latex_editor(2)](https://user-images.githubusercontent.com/114554364/200733304-a281f4f3-2da9-4d02-a344-9d292be190cb.png)
 
++ $$tg2\alpha=\frac{2tg\alpha}{1-tg^2\alpha}$$
+
+![lagrida_latex_editor(2)](https://user-images.githubusercontent.com/114554364/200733756-2193c648-c4e6-4c38-aafe-f55ec86bca85.png)
+
+
+
 
