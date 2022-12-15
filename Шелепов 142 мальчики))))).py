@@ -9,10 +9,9 @@ def norm(x):
     g = {'а','о','у','е','ю','я','ы','ё','и'}
     k = 0
 
-    for i in range(len(fam)):
-        if fam[i] in g:
-            print(fam[i])
-fam = input('Введи фамилию ')
+    for i in range(len(x)):
+        if x[i] in g:
+            print(x[i])
 
 x = input('Введи фамилию ')
 y = input('Введи пол ')
