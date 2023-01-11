@@ -42,4 +42,7 @@ $$ A \to  B = \overline{A} \vee B $$
 #Схемы мермейд ( здесь будут)
 
 
-
+| Plugin | README |
+| ------ | ------ |
+| Dropbox | [plugins/dropbox/README.md][PlDb] |
+| GitHub | [plugins/github/README.md][PlGh] |
