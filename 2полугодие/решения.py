@@ -6,6 +6,6 @@ def f5():
     elif i % 2 != 0:
         a = '1' + a + '01'
     if int(a, 2) > 516:
-        print(int(a, 2))
+        print(int(i))
         break
     
