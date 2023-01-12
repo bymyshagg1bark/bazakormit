@@ -30,7 +30,7 @@ def f8():
     k = 0
     n = '16 36 56 76 61 63 65 67'
     nn = n.split()
-    for i in nums:
+    for n in nums:
         numb = ' '.join(n)
         sp = []
         if numb.count('6') == 1 and numb[0] != '0':
