@@ -40,5 +40,18 @@ def f8():
             if not sp:
                 k += 1
     print(k)
-
+def f12():
+    sp =[]
+    for i in range(2, 1000):
+        n = 0
+        for x in range(2, i):
+            if  i % x  == 0:
+                n += 1
+        if n == 0:
+            sp.append(i)
+    print(sp)
+    for z in sp:
+        for y in range(100):
+            if y * 4 + 117 == z:
+                print(y, i)
     
