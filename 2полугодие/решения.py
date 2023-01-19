@@ -52,6 +52,5 @@ def f12():
     print(sp)
     for z in sp:
         for y in range(100):
-            if y * 4 + 117 == z:
-                print(y, i)
-    
+            if y * 4 + 105 == z:
+                print(z, y)
