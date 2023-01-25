@@ -80,6 +80,8 @@
 # Задание 15
 def da():
     sp = [x for x in range(100)]
+    
     print(sp)
+    
     тернарный оператор
 
