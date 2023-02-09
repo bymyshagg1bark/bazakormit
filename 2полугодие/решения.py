@@ -81,6 +81,34 @@ for i in range(2,6):
                 a *= 7
         if a == 489:
             print(n)
-            
+
+def ma():
+    k = 0
+    for i in range(2, 10):
+        b = product('12',repeat = i)
+        for n in b:
+            a = 1
+            for x in n:
+                if x == '1':
+                    a += 1
+                else:
+                    a *= 2
+            if a == 10:
+                k += 1
+    print(k)
+def malch():
+    k = 0
+    for i in range(2, 25):
+        b = product('12',repeat = i)
+        for n in b:
+            if n.count('2') > 1:continue
+            a = 10
+            for x in n:
+                if x == '1':a += 1
+                else: a *= 2
+                if a == 17:break
+            if a == 35:k += 1
+    print(k)                     
+
 
 
