@@ -109,6 +109,20 @@ def malch():
                 if a == 17:break
             if a == 35:k += 1
     print(k)                     
-
+def z23():
+  def f(x,y,z):
+    k = 0
+    for i in range(3, z):
+        b = product('12', repeat = i)
+        for pr in b:
+            if x == 10 and pr.count('2') > 1:continue
+            a = x
+            for com in pr:
+                if com ==  '1':a += 1
+                else: a *= 2
+                if a == 17:break
+            if a == y:k += 1   
+    return k
+print(f(1,10,10)*f(10,35,25))
 
 
