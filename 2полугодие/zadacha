@@ -10,3 +10,16 @@ for i in range(10,1000001):
     if str(sum(sp)) == str(i):
         ped.append(i)
 print(sum(ped))
+
+
+
+from itertools import product
+
+for i in range(500,601):
+    a = list(str(i))
+    _max1 = max(a)
+    _min = min(a)
+    a.remove(_max1)
+    _max2 = max(a)
+    _maxim = _max1 + _max2
+    print(_maxim)
