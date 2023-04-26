@@ -1,0 +1,12 @@
+ped = []
+for i in range(10,1000001):
+    sp = []
+    a = str(i)
+    b = len(a)
+    for x in a:
+        zzz = int(x) ** b
+        sp.append(zzz)
+    #print(sp)
+    if str(sum(sp)) == str(i):
+        ped.append(i)
+print(sum(ped))
